@@ -3,7 +3,7 @@
 
 ![40793a617fa39ac6e51d982ec7f648e0_sp](https://user-images.githubusercontent.com/9754506/184605302-be6b9593-5265-45c8-a745-7f601fc92de8.jpg)
 
-The FabSounds performances are based on the multisamples already present in the wavestate. Suggestions and contributions are welcome, the ultimate goal is to use the wavestation as a normal keyboard or sound expander.
+The FabSounds performances are based on the multisamples already present in the wavestate. Suggestions and contributions are welcome, the ultimate goal is to use the wavestate as a normal keyboard or sound expander.
 
 ### How to install:
   - open "Wavestate Editor Librarian" application
